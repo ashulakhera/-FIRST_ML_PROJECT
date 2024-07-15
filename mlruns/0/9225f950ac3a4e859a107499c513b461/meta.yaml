@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/projects/mlprojects/mlruns/0/9225f950ac3a4e859a107499c513b461/artifacts
+end_time: 1720105714099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9225f950ac3a4e859a107499c513b461
+run_name: agreeable-asp-44
+run_uuid: 9225f950ac3a4e859a107499c513b461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720105694598
+status: 3
+tags: []
+user_id: root
